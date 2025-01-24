@@ -120,7 +120,7 @@ var Axes = _dereq_('../geometry/Axes');
 
         _initProperties(body, options);
 
-        return body;
+        return body,
     };
 
     /**
